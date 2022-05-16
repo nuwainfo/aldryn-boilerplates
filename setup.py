@@ -16,7 +16,7 @@ REQUIREMENTS = [
 
 
 setup(
-    name='aldryn-boilerplates-Zephyrus5',
+    name='aldryn-boilerplates',
     author=metadata['author'],
     author_email=metadata['email'],
     version=metadata['version'],
